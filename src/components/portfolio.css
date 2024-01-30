@@ -1,0 +1,122 @@
+.portfolio__container {
+  overflow: visible;
+  position: relative;
+}
+
+.swiper {
+  position: unset !important;
+}
+
+.portfolio__content {
+  padding: 0 2rem;
+}
+
+.portfolio__img {
+  width: 265px;
+  border-radius: 0.5rem;
+  justify-self: center;
+}
+
+.portfolio__title {
+  font-size: var(--h3-font-size);
+  margin-bottom: var(--mb-0-5);
+}
+
+.portfolio__description {
+  margin-bottom: var(--mb-0-75);
+}
+
+.portfolio__button {
+  text-align: center;
+}
+
+.portfolio__button:hover .button__icon {
+  transform: translateX(0.25rem);
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  /* position: absolute !important; */
+  color: var(--first-color) !important;
+  font-weight: 900 !important;
+}
+
+.swiper-custom-prev-btn {
+  width: 1rem;
+  height: 1rem;
+}
+
+.swiper-custom-prev-btn::after {
+  font-size: 3rem !important;
+}
+
+.swiper-button-prev {
+  left: -2rem !important;
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  font-size: 1.2rem !important;
+  /* font-weight: 600 !important; */
+}
+
+.swiper-button-next {
+  right: -2rem !important;
+}
+
+.swiper-custom-pagination {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: var(--first-color) !important;
+}
+
+@media screen and (min-width: 568px) {
+  .portfolio__content {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .portfolio__img {
+    width: 320px;
+  }
+
+  .portfolio__content {
+    align-items: center;
+  }
+
+  .portfolio__button {
+    text-align: initial;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .portfolio__content {
+    column-gap: 5rem;
+  }
+
+  .swiper-portfolio-icon {
+    font-size: 3.5rem !important;
+  }
+
+  .swiper-button-next::after,
+  .swiper-button-prev::after {
+    font-size: 2rem !important;
+    /* font-weight: 600 !important; */
+  }
+
+  .swiper-button-prev {
+    left: -3.5rem !important;
+  }
+
+  .swiper-button-next {
+    right: -3.5rem !important;
+  }
+
+  .swiper-custom-pagination {
+    margin-top: 4.5rem;
+  }
+}
