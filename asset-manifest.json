@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-website2/static/css/main.48a970da.css",
+    "main.js": "/portfolio-website2/static/js/main.c557a894.js",
+    "static/js/787.53ca580d.chunk.js": "/portfolio-website2/static/js/787.53ca580d.chunk.js",
+    "static/media/perfil.png": "/portfolio-website2/static/media/perfil.400f97a1924d48b212e4.png",
+    "static/media/about.jpg": "/portfolio-website2/static/media/about.a6e2fadb3c981278c01b.jpg",
+    "static/media/project.png": "/portfolio-website2/static/media/project.efad0f501bd12aa414c7.png",
+    "static/media/portfolio3.jpg": "/portfolio-website2/static/media/portfolio3.f0e7fa8280d9df023e12.jpg",
+    "static/media/portfolio1.jpg": "/portfolio-website2/static/media/portfolio1.b100f823e1d9a2e55cca.jpg",
+    "static/media/testimonial3.jpg": "/portfolio-website2/static/media/testimonial3.0fdabd61adfa88451208.jpg",
+    "static/media/Alexa-Cv.pdf": "/portfolio-website2/static/media/Alexa-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/portfolio-website2/index.html",
+    "main.48a970da.css.map": "/portfolio-website2/static/css/main.48a970da.css.map",
+    "main.c557a894.js.map": "/portfolio-website2/static/js/main.c557a894.js.map",
+    "787.53ca580d.chunk.js.map": "/portfolio-website2/static/js/787.53ca580d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48a970da.css",
+    "static/js/main.c557a894.js"
+  ]
+}
