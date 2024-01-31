@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-website2/static/css/main.48a970da.css",
+    "main.css": "/portfolio-website2/static/css/main.52c4ab3d.css",
     "main.js": "/portfolio-website2/static/js/main.c557a894.js",
     "static/js/787.53ca580d.chunk.js": "/portfolio-website2/static/js/787.53ca580d.chunk.js",
     "static/media/perfil.png": "/portfolio-website2/static/media/perfil.400f97a1924d48b212e4.png",
@@ -11,12 +11,12 @@
     "static/media/testimonial3.jpg": "/portfolio-website2/static/media/testimonial3.0fdabd61adfa88451208.jpg",
     "static/media/Alexa-Cv.pdf": "/portfolio-website2/static/media/Alexa-Cv.e83747cf513e0b21a7f1.pdf",
     "index.html": "/portfolio-website2/index.html",
-    "main.48a970da.css.map": "/portfolio-website2/static/css/main.48a970da.css.map",
+    "main.52c4ab3d.css.map": "/portfolio-website2/static/css/main.52c4ab3d.css.map",
     "main.c557a894.js.map": "/portfolio-website2/static/js/main.c557a894.js.map",
     "787.53ca580d.chunk.js.map": "/portfolio-website2/static/js/787.53ca580d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48a970da.css",
+    "static/css/main.52c4ab3d.css",
     "static/js/main.c557a894.js"
   ]
 }
