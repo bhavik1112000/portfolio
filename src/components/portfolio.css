@@ -1,6 +1,8 @@
 .portfolio__container {
   overflow: visible;
   position: relative;
+  width: 80%;
+  margin: 0 auto;
 }
 
 .swiper {
@@ -51,7 +53,7 @@
 }
 
 .swiper-button-prev {
-  left: -2rem !important;
+  left: -1.5rem !important;
 }
 
 .swiper-button-next::after,
@@ -61,7 +63,7 @@
 }
 
 .swiper-button-next {
-  right: -2rem !important;
+  right: -1.5rem !important;
 }
 
 .swiper-custom-pagination {
@@ -94,6 +96,9 @@
 }
 
 @media screen and (min-width: 1024px) {
+  .portfolio__container {
+    width: 100%;
+  }
   .portfolio__content {
     column-gap: 5rem;
   }
@@ -109,11 +114,11 @@
   }
 
   .swiper-button-prev {
-    left: -3.5rem !important;
+    left: -2.5rem !important;
   }
 
   .swiper-button-next {
-    right: -3.5rem !important;
+    right: -2.5rem !important;
   }
 
   .swiper-custom-pagination {
